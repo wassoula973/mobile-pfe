@@ -1,0 +1,3 @@
+const EXPO_PUBLIC_API_URL = "http://192.168.1.14:2700";
+
+export { EXPO_PUBLIC_API_URL };
